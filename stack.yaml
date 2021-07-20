@@ -45,7 +45,7 @@ extra-deps:
   - git: https://github.com/Linearity/lightarrow.git
     commit: 9d7faf48b2a487a73b08223719f54d6280bfa094 
   - git: https://github.com/Linearity/fairybow.git
-    commit: cb406771e2c65abeb96a7fbd79359551f4d042cd
+    commit: 598eee8f435ff9b0a65544e919303401ccfacc6d
   - git: https://github.com/Linearity/dunai.git
     commit: 638c5725b5ac7f24d1695e0a738e610d663fca1f
     subdirs:
